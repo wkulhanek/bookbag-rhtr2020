@@ -1,3 +1,3 @@
 * xref:overview.adoc[Overview]
 * xref:user_information.adoc[User Information]
-* xref:run_jenkins_pipeline[Run existing Jenkins Pipeline]
+* xref:run_jenkins_pipeline.adoc[Run existing Jenkins Pipeline]
