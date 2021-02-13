@@ -3,4 +3,4 @@ title: RHTR 2020 Pipelines
 version: 1.0
 nav:
 - modules/ROOT/nav.adoc
-start_page: ROOT:pages/overview.adoc
+start_page: ROOT:overview.adoc
