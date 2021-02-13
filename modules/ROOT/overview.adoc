@@ -1,7 +1,6 @@
 :markup-in-source: verbatim,attributes,quotes
 
-// Title comes from the workshop.yaml
-// == Overview
+== Overview
 
 *Welcome to Red Hat Tech Ready 2020 and the Lab "From Jenkins to OpenShift Pipelines (Tekton)"!*
 
