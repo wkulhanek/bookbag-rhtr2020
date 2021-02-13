@@ -1,7 +1,6 @@
 :markup-in-source: verbatim,attributes,quotes
 
-// Title comes from the workshop.yaml
-// == User Information
+== User Information
 
 Feel free to resize the panes in this window to make more room for the lab instructions.
 
