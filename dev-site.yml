@@ -4,7 +4,7 @@ runtime:
 site:
   title: RHTR 2020 Pipelines
 #  url: http://localhost:8080/index.html
-  start_page: ROOT::overview.adoc
+  start_page: content::overview.adoc
 
 content:
   sources:
